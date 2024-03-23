@@ -3,7 +3,19 @@
         "name" : "Ridwan Asandi",
         "description":"I am a Frontend Developer",
         "github" : "https://github.com/RidwanAsandi",
-        "project" : "https://github.com/RidwanAsandi/AnglesKhimar.git"
+        "project" : "https://github.com/RidwanAsandi/AnglesKhimar.git",
+        "image":"profilepic.jpg",
+        "bio" : "Ini adalah biografi aku",
+        "contactmessage":"Hello, here I am",
+        "email": "ridwanasandi98@gmail.com",
+        "phone": "877-1234-5678",
+        "address":{
+            "street":"Jl Mangga Raya",
+            "city":"DKI Jakarta",
+            "state":"Jakarta Selatan",
+            "zip": "12345"
+        },
+        "resumedownload":"https://github.com/RidwanAsandi"
         
     }
 }

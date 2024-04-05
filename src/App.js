@@ -4,6 +4,7 @@ import $ from "jquery";
 import { Component } from "react";
 import Header from "./Components/Header.js"
 import About from "./Components/About.js";
+import Resume from "./Components/Resume.js";
 import Contact from "./Components/Contact.js";
 
 class App extends Component {
@@ -44,6 +45,7 @@ class App extends Component {
       <div className="App">
         <Header data={this.state.resumeData.main}/>
         <About data={this.state.resumeData.main}/>
+        <Resume data={this.state.resumeData.resume}/>
         <Contact data={this.state.resumeData.main}/>
       </div>
     )

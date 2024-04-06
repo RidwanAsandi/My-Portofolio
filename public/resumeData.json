@@ -1,68 +1,145 @@
 {
-    "main": {
-        "name" : "Ridwan Asandi",
-        "description":"I am a Frontend Developer",
-        "github" : "https://github.com/RidwanAsandi",
-        "project" : "https://github.com/RidwanAsandi/AnglesKhimar.git",
-        "image":"profilepic.jpg",
-        "bio" : "Ini adalah biografi aku",
-        "contactmessage":"Hello, here I am",
-        "email": "ridwanasandi98@gmail.com",
-        "phone": "877-1234-5678",
-        "address":{
-            "street":"Jl Mangga Raya",
-            "city":"DKI Jakarta",
-            "state":"Jakarta Selatan",
-            "zip": "12345"
-        },
-        "resumedownload":"https://github.com/RidwanAsandi"  
+  "main": {
+    "name": "Ridwan Asandi",
+    "description": "I am a Frontend Developer",
+    "github": "https://github.com/RidwanAsandi",
+    "project": "https://github.com/RidwanAsandi/AnglesKhimar.git",
+    "image": "profilepic.jpg",
+    "bio": "Ini adalah biografi aku",
+    "contactmessage": "Hello, here I am",
+    "email": "ridwanasandi98@gmail.com",
+    "phone": "877-1234-5678",
+    "address": {
+      "street": "Jl Mangga Raya",
+      "city": "DKI Jakarta",
+      "state": "Jakarta Selatan",
+      "zip": "12345"
     },
-    "resume" : {
-        "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-        "education" : [
-            {
-                "school": "Universitas Indraprasta PGRI",
-                "degree": "Bachelor degree of Informatics Engineering",
-                "graduated": "2021",
-                "description" : "I am joining gemastik competition"
-            },
-            {
-                "school": "SMK AL-HIDAYAH 1",
-                "degree": "Computer Network Engineering",
-                "graduated": "May 2016",
-                "description": "I am joining computer olympiad"
-            }
-        ],
-        "work": [
-            {
-                "company" : "PT. Kalachakra Consulting",
-                "title" : "apprenticeship",
-                "years": "February 2022 - May 2022",
-                "description": "transfer media"
-            }, {
-                "company": "PT. BCA Finance",
-                "title": "IT Support",
-                "years": "Mey 2023",
-                "description": "employee reserves"
-            }
-        ],
-        "skills": [
-            {
-                "name" : "HTML",
-                "level": "90%"
-            },
-            {
-                "name": "CSS",
-                "level": "70%"
-            },
-            {
-                "name": "Java Script",
-                "level": "85%"
-            },
-            {
-                "name": "ReactJS",
-                "level": "88%"
-            }
-        ]
-    }
+    "resumedownload": "https://github.com/RidwanAsandi"
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Universitas Indraprasta PGRI",
+        "degree": "Bachelor degree of Informatics Engineering",
+        "graduated": "2021",
+        "description": "I am joining gemastik competition"
+      },
+      {
+        "school": "SMK AL-HIDAYAH 1",
+        "degree": "Computer Network Engineering",
+        "graduated": "May 2016",
+        "description": "I am joining computer olympiad"
+      }
+    ],
+    "work": [
+      {
+        "company": "PT. Kalachakra Consulting",
+        "title": "apprenticeship",
+        "years": "February 2022 - May 2022",
+        "description": "transfer media"
+      },
+      {
+        "company": "PT. BCA Finance",
+        "title": "IT Support",
+        "years": "Mey 2023",
+        "description": "employee reserves"
+      }
+    ],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      },
+      {
+        "name": "Java Script",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "88%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My travel blog for my post-university",
+        "image": "01.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "01.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "02.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "03.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "04.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "05.jpg",
+        "url": "http://www.smirkspace.com"
+      },
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "06.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      }
+    ]
+  }
 }
